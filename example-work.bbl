@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -9,13 +9,212 @@
 \ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
 
-\bibitem{myref}
-\selectlanguageifdefined{english}
-\BibAuthor{Lienhart,~R.} \BibTitle{An extended set of haar-like features for
-  rapid object detection}~// Proceedings of the International Conference on
-  Image Processing. "---
-\newblock Vol.~1. "---
-\newblock Rochester, USA: 2002. "---
-\newblock Pp.~900--903.
+\bibitem{goverment}
+\selectlanguageifdefined{рус}
+\BibAuthor{РФ,~�.} \BibTitle{Распоряжение
+  Правительства Российской Федерации от 21
+  июня 2023 г. № 1630-р. Об утверждении Стратегии
+  развития беспилотной авиации РФ на период
+  до 2030 г. и на перспективу до 2035 г. и плана
+  мероприятий по ее реализации.}~/ �.~РФ~//
+  \emph{Собрание законодательства Российской
+  Федерации}. "---
+\newblock 2023. "---
+\newblock no.~27.
+
+\bibitem{uvDev}
+\selectlanguageifdefined{рус}
+\BibAuthor{Шаошань~Лю~Лиюнь~Ли,~�. �. �. �. �.-�.~�.}
+  \BibTitle{Разработка беспилотных
+  транспортных средств}~/ �.~�. �. �. �.-�.~�.
+  Шаошань~Лю, Лиюнь~Ли; edited by�.~�. Яценков. "---
+\newblock М.: ДМК Пресс, 2022.
+
+\bibitem{kbpa}
+\selectlanguageifdefined{рус}
+\BibAuthor{Терентьев,~�.} \BibTitle{Развитие
+  теоретических основ и новые
+  методологические подходы для разработки
+  системы траекторного управления
+  пермпективными беспилотными
+  летательными аппаратами.}~/ �.~Терентьев. "---
+\newblock М.: Инновационное машиностроение, 2022.
+
+\bibitem{uavAvia}
+\selectlanguageifdefined{рус}
+\BibAuthor{В.С.~Фетисов~Л.М.~Неугодникова,~�. �. �.~�.}
+  \BibTitle{Беспилотная авиация: терминология,
+  классификация, современное состояние.}~/
+  �.~�. �.~�. В.С.~Фетисов, Л.М.~Неугодникова. "---
+\newblock Уфа: ФОТОН, 2014.
+
+\bibitem{ShilovMFTI}
+\selectlanguageifdefined{рус}
+\BibAuthor{Шилов,~�.~�.} \BibTitle{Разработка системы
+  автоматического управления беспилотным
+  летательным аппаратом мультироторного
+  типа.}~/ �.~�. Шилов~// \emph{Собрание
+  законодательства Российской Федерации}.
+  "---
+\newblock 2014. "---
+\newblock Vol.~6, no.~4. "---
+\newblock Pp.~139, 152.
+
+\bibitem{filter}
+\selectlanguageifdefined{en}
+\BibAuthor{Goddard,~D.~P.} \BibTitle{Goddard consulting. modeling. simulation.
+  data analysis. visualization.}
+  \BibUrl{http://www.goddardconsulting.ca/control-system-design.html}.
+
+\bibitem{Tkachev}
+\selectlanguageifdefined{рус}
+\BibAuthor{С.Б.~Ткачев~А.П.~Крищенко,~�.~�.}
+  \BibTitle{Автоматическая генерация сложных
+  пространственных траекторий БПЛА и
+  синтез управлений}~/ �.~�. С.Б.~Ткачев,
+  А.П.~Крищенко~// \emph{Математика и
+  Математическое моделирование}. "---
+\newblock 2015. "---
+\newblock no.~1. "---
+\newblock Pp.~1,17.
+
+\bibitem{Yakovlev}
+\selectlanguageifdefined{рус}
+\BibAuthor{К.С.~Яковлев,~�.~�.} \BibTitle{Метод
+  автоматического планирования
+  совокупности траекторий для навигации
+  беспилотных транспортных средств}~/ �.~�.
+  К.С.~Яковлев~// \emph{Управление большими
+  системами}. "---
+\newblock 2015. "---
+\newblock no.~58. "---
+\newblock Pp.~306, 342.
+
+\bibitem{minPathA}
+\selectlanguageifdefined{en}
+\BibAuthor{Peter E.~Hart~Nils J.~Nilsson,~B.~R.} \BibTitle{A formal basis for
+  the heuristic determination of minimum cost paths}~/ B.~R. Peter E.~Hart,
+  Nils J.~Nilsson~// \emph{IEEE Transactions on Systems Science and
+  Cybernetics}. "---
+\newblock 1968. "---
+\newblock Vol.~4, no.~2. "---
+\newblock Pp.~100,107.
+
+\bibitem{theta}
+\selectlanguageifdefined{en}
+\BibAuthor{Kenny~Daniel~Alex~Nash,~S. K. A.~F.} \BibTitle{Theta*: Any-angle
+  path planning on grids}~/ S.~K. A.~F. Kenny~Daniel, Alex~Nash~//
+  \emph{Journal of Artificial Intelligence Research}. "---
+\newblock 2010. "---
+\newblock Vol.~39, no.~1. "---
+\newblock Pp.~533,579.
+
+\bibitem{R}
+\selectlanguageifdefined{en}
+\BibAuthor{LIKHACHEV~M.,~S.~A.} \BibTitle{R* search}. "---
+\newblock 2008.
+  \BibUrl{http://repository.upenn.edu/cgi/viewcontent.cgi?article=1030&context=grasp_papers}.
+
+\bibitem{JPS}
+\selectlanguageifdefined{en}
+\BibAuthor{Daniel~Harabor,~A.~G.} \BibTitle{Online graph pruning for
+  pathfinding on grid maps}. "---
+\newblock 2011. \BibUrl{http://grastien.net/ban/articles/hg-aaai11.pdf}.
+
+\bibitem{motionPlanning}
+\selectlanguageifdefined{en}
+\BibAuthor{S.M.,~L.} \BibTitle{Motion planning}~/ L.~S.M.~// \emph{IEEE
+  Robotics & Automation Magazine}. "---
+\newblock 2011. "---
+\newblock Vol.~18, no.~1. "---
+\newblock Pp.~79,89.
+
+\bibitem{treeRRT}
+\selectlanguageifdefined{en}
+\BibAuthor{Lee~D.,~S.~D.} \BibTitle{Rrt-based path planning for fixed-wing uavs
+  with arrival time and approach direction constraints}~/ S.~D. Lee~D.~//
+  \emph{IEEE Robotics & Automation Magazine}. "---
+\newblock 2014. "---
+\newblock Pp.~317,328.
+
+\bibitem{Bestaoui}
+\selectlanguageifdefined{en}
+\BibAuthor{Y.,~B.} \BibTitle{3d flyable curves for an autonomous aircraft}~/
+  B.~Y.~// \emph{9th International Conference on Mathematical Problems in
+  Engineering, Aerospace and Sciences}. "---
+\newblock 2012. "---
+\newblock Vol.~1493. "---
+\newblock Pp.~132,139.
+
+\bibitem{Shanmugavel}
+\selectlanguageifdefined{en}
+\BibAuthor{Shanmugavel~M.~Tsourdos~A.,~W. B. Z.~R.} \BibTitle{Differential
+  geometric path planning of multiple uavs}~/ W.~B. Z.~R. Shanmugavel~M.,
+  Tsourdos~A.~// \emph{Journal of Dynamic Systems Measurement and Control}.
+  "---
+\newblock 2005. "---
+\newblock Vol.~129, no.~5. "---
+\newblock Pp.~620,632.
+
+\bibitem{Pan}
+\selectlanguageifdefined{en}
+\BibAuthor{Pan~J.~Zhang~Liangjun,~M.~D.} \BibTitle{Collision-free and smooth
+  trajectory computation in cluttered environments}~/ M.~D. Pan~J.,
+  Zhang~Liangjun~// \emph{The International Journal of Robotics Research}. "---
+\newblock 2012. "---
+\newblock Vol.~31, no.~10. "---
+\newblock Pp.~1155,1175.
+
+\bibitem{Gonoblev}
+\selectlanguageifdefined{рус}
+\BibAuthor{Гоноболев
+  Александр~Сергеевич~Когочев
+  Антон~Юрьевич,~�. �.~�.} \BibTitle{Система
+  обнаружения препятствий для
+  мультикоптера}~/ �.~�.~�. Гоноболев
+  Александр~Сергеевич, Когочев
+  Антон~Юрьевич~// \emph{Ресурсы и технологии}.
+  "---
+\newblock 2014. "---
+\newblock Vol.~11, no.~2. "---
+\newblock Pp.~119, 126.
+
+\bibitem{Shirokov}
+\selectlanguageifdefined{рус}
+\BibAuthor{И.Б.~Широков,~�.~�.} \BibTitle{СИСТЕМА
+  АВТОМАТИЗИРОВАННОЙ ПОСАДКИ БПЛА НА
+  ДВИЖУЩУЮСЯ ПЛАТФОРМУ НА БАЗЕ АЛГОРИТМОВ
+  ТЕХНИЧЕСКОГО ЗРЕНИЯ}~/ �.~�. И.Б.~Широков~//
+  \emph{Известия Тульского государственного
+  университета. Технические науки}. "---
+\newblock 2022. "---
+\newblock no.~9. "---
+\newblock Pp.~293,297.
+  \BibUrl{https://cyberleninka.ru/article/n/sistema-avtomatizirovannoy-posadki-bpla-na-dvizhuschuyusya-platformu-na-baze-algoritmov-tehnicheskogo-zreniya}.
+
+\bibitem{Mystafaev}
+\selectlanguageifdefined{рус}
+\BibAuthor{А.Ф.,~�.} \BibTitle{ИСПОЛЬЗОВАНИЕ
+  ТЕХНОЛОГИИ "МАШИННОГО ЗРЕНИЯ" ДЛЯ
+  УПРАВЛЕНИЯ БПЛА}~/ �.~А.Ф.~// \emph{Вестник
+  науки}. "---
+\newblock 2019. "---
+\newblock Vol.~21, no.~12. "---
+\newblock Pp.~195,198.
+  \BibUrl{https://cyberleninka.ru/article/n/ispolzovanie-tehnologii-mashinnogo-zreniya-dlya-upravleniya-bpla}.
+
+\bibitem{Gerasuto}
+\selectlanguageifdefined{рус}
+\BibAuthor{Герасюто С.~Л.~Прокопович Г.~А.,~�. �.~�.}
+  \BibTitle{Построение навигационной карты
+  внутри помещений по величине магнитного
+  поля земли mems сенсором мобильного
+  робота}~/ �.~�.~�. Герасюто С.~Л., Прокопович
+  Г.~А.~// \emph{Робототехника и техническая
+  кибернетика}. "---
+\newblock 2019. "---
+\newblock no.~3. "---
+\newblock Pp.~53,56.
+  \BibUrl{https://cyberleninka.ru/article/n/ispolzovanie-tehnologii-mashinnogo-zreniya-dlya-upravleniya-bpla}.
 
 \end{thebibliography}

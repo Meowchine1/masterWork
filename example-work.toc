@@ -1,14 +1,8 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\CYRO \CYRB \CYRO \CYRZ \CYRN \CYRA \CYRCH \CYRE \CYRN \CYRI \CYRYA \ \CYRI \ \CYRS \CYRO \CYRK \CYRR \CYRA \CYRSHCH \CYRE \CYRN \CYRI \CYRYA }{3}{section*.1}%
-\contentsline {section}{\cyrillictext \CYRV \CYRV \CYRE \CYRD \CYRE \CYRN \CYRI \CYRE }{4}{section*.2}%
-\contentsline {section}{\numberline {1}Классификация БПЛА}{6}{section.1}%
-\contentsline {section}{\numberline {2}Динамичсекая система движения БПЛА}{8}{section.2}%
-\contentsline {section}{\numberline {3}Бортовое устройство современных БПЛА}{8}{section.3}%
-\contentsline {section}{\numberline {4}Программно-алгоритмического обеспечения САУ БПЛА}{15}{section.4}%
-\contentsline {section}{\cyrillictext \CYRZ \CYRA \CYRK \CYRL \CYRYU \CYRCH \CYRE \CYRN \CYRI \CYRE }{17}{section*.7}%
-\redeflsection 
-\ttl@change@i {\@ne }{section}{3ex}{\hspace {-3ex}}{\appendixname ~\thecontentslabel \hspace {2ex}}{\hspace {2.3em}}{\titlerule *[0.98ex]{.}\contentspage }\relax 
-\ttl@change@v {section}{}{}{}\relax 
-\contentsline {section}{\numberline {\CYRA }test}{18}{appendix.A}%
-\contentsline {section}{\cyrillictext \CYRS \CYRP \CYRI \CYRS \CYRO \CYRK \ \CYRI \CYRS \CYRP \CYRO \CYRL \CYRSFTSN \CYRZ \CYRO \CYRV \CYRA \CYRN \CYRN \CYRERY \CYRH \ \CYRI \CYRS \CYRT \CYRO \CYRCH \CYRN \CYRI \CYRK \CYRO \CYRV }{19}{section*.11}%
+\contentsline {section}{\CYRO \CYRB \CYRO \CYRZ \CYRN \CYRA \CYRCH \CYRE \CYRN \CYRI \CYRYA \ \CYRI \ \CYRS \CYRO \CYRK \CYRR \CYRA \CYRSHCH \CYRE \CYRN \CYRI \CYRYA }{4}{section*.1}%
+\contentsline {section}{\cyrillictext \CYRV \CYRV \CYRE \CYRD \CYRE \CYRN \CYRI \CYRE }{5}{section*.2}%
+\contentsline {section}{\numberline {1}Классификация и бортовое устройство БПЛА}{6}{section.1}%
+\contentsline {section}{\numberline {2}Программно-алгоритмическе обеспечения САУ БПЛА}{10}{section.2}%
+\contentsline {section}{\cyrillictext \CYRZ \CYRA \CYRK \CYRL \CYRYU \CYRCH \CYRE \CYRN \CYRI \CYRE }{11}{section*.6}%
+\contentsline {section}{\cyrillictext \CYRS \CYRP \CYRI \CYRS \CYRO \CYRK \ \CYRI \CYRS \CYRP \CYRO \CYRL \CYRSFTSN \CYRZ \CYRO \CYRV \CYRA \CYRN \CYRN \CYRERY \CYRH \ \CYRI \CYRS \CYRT \CYRO \CYRCH \CYRN \CYRI \CYRK \CYRO \CYRV }{12}{section*.7}%
 \contentsfinish 
